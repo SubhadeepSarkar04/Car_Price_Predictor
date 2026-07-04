@@ -12,8 +12,8 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 🔗 Project Links
-* **Live Dockerized Web Application:** [Insert Your New Render Live URL Here]
-* **GitHub Repository:** [Insert Your New GitHub Repository URL Here]
+* **Live Dockerized Web Application:** https://car-price-predictor-skgz.onrender.com
+* **GitHub Repository:** https://github.com/your-username/Car-Price-Docker
 
 ---
 
